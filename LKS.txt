@@ -1,0 +1,20 @@
+1. Soal LKS berisi berbentuk narasi dari client yang akan 
+   dipenuhi oleh peserta lomba web developer.
+2. Pembuatan web termasuk frontend dan backtend.
+3. Pembuatan grafis untuk webesite yang sesuai spesifikasi:
+   a. Merancang logo sesuai dengan narasi soal.
+   b. Membuat logo menggunakan aplikasi desain gravis
+4. Keterampilan dalam perancangan website, komposisi warna, dan tpografi.
+   a. Menrancang tampilan website sesuai narasi soal.
+   b. Menentukan komposisi warna sesuai.
+5. Membuat website yang kompatibel pada berbagai browser dan responsif untuk diakses
+   dari berbagai perangkat (desktop maupun mobile) dan layar resolusi.
+   a. Membuat web cross platfom.
+   b. Boleh menggunakan framework Bootstrap, Foundation, Bulma, Semantik UI, dll
+   c. Tampilan responsive untuk mobile/hp, tablet dan dektop.
+6. Melengkapi dengan validasi dan administrasi seta mengintegrasikan audio dan video 
+   ke dalam webiste.
+   a. Membuat validasi input
+   b. Menambahkan animasi pada halaman web, boleh menggunakan library JavaScript.
+   c. Mengintegrasikan audio dan video ke halaman web.
+   d. Akses freepik diijinkan.
